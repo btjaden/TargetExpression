@@ -1,3 +1,4 @@
-# <img src="RNA.png" width=100> Identifying Targets of Bacterial sRNA Regulation Using Compendia of Expression Data <img src="RNA.png" width=100>
+# <img src="https://cs.wellesley.edu/~btjaden/TargetExpression/RNA.png" width=100> <img src="https://cs.wellesley.edu/~btjaden/TargetExpression/Title.png" width=600> <img src="https://cs.wellesley.edu/~btjaden/TargetExpression/RNA.png" width=100>
+
 
 
