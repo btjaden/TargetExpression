@@ -1,2 +1,3 @@
-# TargetExpression
-Using compendia of expression data to identify targets of bacterial RNA regulation
+# <img src="RNA.png" width=50> Identifying Targets of Bacterial sRNA Regulation Using Compendia of Expression Data <img src="RNA.png" width=50>
+
+
